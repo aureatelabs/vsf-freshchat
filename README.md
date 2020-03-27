@@ -32,6 +32,7 @@ Add the following JSON config snippet into your desired config, eg. `config/loca
 }
 ```
 Replace the `YOUR_FRESHCHAT_TOKEN` & `YOUR_FRESHCHAT_HOST` parameter with the freshchat token & freshchat host provided by Freshchat after registration. You can find your token & host after login to your freshchat account.
+
 ![Get Freshchat Script](docs/freeChat-script.png)
 
 Valid token example: `"token": "dc5a7a7c-cfdd-43ae-9283-5ebb61beeeb6"`
